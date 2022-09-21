@@ -1,0 +1,29 @@
+.step2{
+    background-color: rgb(25, 25, 95);
+}
+.one{
+    color: aliceblue;
+}
+.circles{
+    border: 1px solid rgb(110, 122, 133);
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding-top: 8px;
+    text-align: center;
+    color: rgb(110, 122, 133);
+}
+.circls{
+    border: 1px solid aliceblue;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding-top: 8px;
+    text-align: center;  
+}
+.align{
+    display: inline;
+}
+.two{
+    color: rgb(110, 122, 133);
+}

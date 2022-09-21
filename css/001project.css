@@ -1,0 +1,35 @@
+.coloure{
+    color: aliceblue;
+}
+.step1{
+    background-color: rgb(25, 25, 95);
+}
+.one{
+    font-size: small;
+}
+.circls{
+    border: 1px solid aliceblue;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding-top: 8px;
+    text-align: center;
+}
+.circles{
+    border: 1px solid rgb(110, 122, 133);
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding-top: 8px;
+    text-align: center;
+    color: rgb(110, 122, 133);
+}
+.stepe{
+    border-left: 5px solid grey;
+}
+.five{
+    color: rgb(128, 91, 163);
+}
+.grey{
+    color: rgb(110, 122, 133);
+}
